@@ -1,5 +1,5 @@
 # Kari-Rika
----
+***
 Beginner coder, likes games and animation.
 ### Skill Tree
 ---
